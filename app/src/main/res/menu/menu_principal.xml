@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal">
+
+    <item
+        android:id="@+id/linea"
+        android:icon="@drawable/linea"
+        android:title="@string/linea"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/circulo"
+        android:icon="@drawable/circulonegro"
+        android:title="@string/circulo"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/rectangulo"
+        android:icon="@drawable/rectangulo"
+        android:title="@string/rectangulo"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/estilolibre"
+        android:icon="@drawable/estilolibre"
+        android:title="@string/estilolibre"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/nuevo"
+        android:title="@string/nuevo"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/guardar"
+        android:title="@string/guardar"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/cargar"
+        android:title="@string/cargar"
+        app:showAsAction="never"/>
+
+</menu>

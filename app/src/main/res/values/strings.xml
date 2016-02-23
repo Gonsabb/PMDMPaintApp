@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="action_settings">Opciones</string>
+    <string name="linea">linea</string>
+    <string name="circulo">circulo</string>
+    <string name="rectangulo">rectangulo</string>
+    <string name="estilolibre">estilolibre</string>
+
+    <string name="nuevo">Nuevo</string>
+    <string name="cargar">Cargar</string>
+    <string name="guardar">Guardar</string>
+    <string name="continuar">Continuar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="title_activity_principal_dib">Paint</string>
+    <string name="guardar2">Guardar</string>
+    <string name="guardardib">Guardar dibujo</string>
+    <string name="escribenombre">Escribe el nombre del archivo donde se guardará el dibujo:</string>
+</resources>
